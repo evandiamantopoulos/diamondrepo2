@@ -1,0 +1,8 @@
+
+body { font-family: Arial, sans-serif; background: #0a0a0a; color: white; margin: 0; padding: 2rem; }
+h1 { font-size: 2rem; margin-bottom: 1rem; }
+nav a, a.button { color: orange; margin-right: 1rem; text-decoration: none; font-weight: bold; }
+ul { list-style-type: disc; margin-left: 2rem; }
+.review { margin-bottom: 1rem; font-style: italic; }
+form input, form textarea { display: block; margin: 1rem 0; width: 100%; padding: 0.5rem; }
+form button { background: orange; border: none; padding: 0.5rem 1rem; font-weight: bold; }
