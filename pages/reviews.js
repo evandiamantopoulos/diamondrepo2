@@ -1,0 +1,1 @@
+export default function Reviews() { return <main className='text-white p-20'>Reviews page coming soon.</main> }

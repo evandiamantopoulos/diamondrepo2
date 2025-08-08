@@ -1,0 +1,1 @@
+export default function Pricing() { return <main className='text-white p-20'>Pricing page coming soon.</main> }

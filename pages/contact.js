@@ -1,0 +1,1 @@
+export default function Contact() { return <main className='text-white p-20'>Contact page coming soon.</main> }
